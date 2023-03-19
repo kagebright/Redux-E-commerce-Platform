@@ -1,0 +1,22 @@
+.DS_Store
+# Ignore Node.js build artifacts
+node_modules/
+npm-debug.log*
+
+# Ignore built files and folders
+dist/
+build/
+*.min.js
+*.min.css
+
+# Ignore any local configuration files
+.env
+
+# Ignore editor-specific files
+.vscode/
+*.code-workspace
+
+# Ignore logs and other generated files
+log/
+logs/
+*.log
