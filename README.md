@@ -29,6 +29,6 @@ SO THAT my website's state management is taken out of the React ecosystem
 ## Links 
 
 - [GitHub Repository](https://github.com/kagebright/Redux-E-commerce-Platform)
-- [Deployed Application]()
+- [Deployed Application](https://serene-escarpment-86897.herokuapp.com/)
 
 ## Screenshots
